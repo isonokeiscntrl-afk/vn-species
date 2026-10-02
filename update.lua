@@ -4,7 +4,7 @@ local BASE_URL =
     "https://raw.githubusercontent.com/isonokeiscntrl-afk/vn-species/main/"
 
 local files = {
-    "vn.lua"
+    "vn.lua",
     "navigation.lua",
     "fuel.lua"
 }
