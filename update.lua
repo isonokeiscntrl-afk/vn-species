@@ -5,6 +5,8 @@ local BASE_URL =
 
 local files = {
     "vn.lua"
+    "navigation.lua",
+    "fuel.lua"
 }
 
 print("=== VN Species Updater ===")
